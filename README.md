@@ -1,2 +1,2 @@
-# MLops-for-a-Machine-Learning-Project
+# MLops For Assignment
 Implementing Simplified MLops for a Machine Learning Project
